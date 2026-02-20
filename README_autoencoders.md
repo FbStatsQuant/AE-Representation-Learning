@@ -89,7 +89,3 @@ Datasets are loaded automatically — MNIST via `torchvision.datasets`, Digits v
 Both notebooks reach similar qualitative conclusions: the nonlinear autoencoder produces a more structured 2D latent space than linear PCA, with cleaner cluster separation and smoother interpolation paths between classes.
 
 ---
-
-## Related Lectures
-
-- `lecture_5_autoencoder.md` — Mathematical foundations: the autoencoder framework, connection to PCA, bottleneck design, denoising autoencoders, strengths and weaknesses
